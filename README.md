@@ -26,7 +26,7 @@ This Tetris game is implemented in C++ using the SFML (Simple and Fast Multimedi
 
 ## Controls
 - **A or Left Arrow Key** : Move Tetrimino Left
-- **W or Up Arrow Key** : Move Tetrimino Up
+- **W or Up Arrow Key** : Rotate a Tetrimino 90 degree
 - **S or Dowm Arrow Key** : Move Tetrimino Down
 - **D or Right Arrow Key** : Move Tetrimino Right
 - **Esc** : Pause or Resume the Game
